@@ -61,3 +61,5 @@ An interactive Excel dashboard was created using PivotTables, charts, and slicer
 ## Project File
 
 - `Retail_Sales_Analysis.xlsx` — Complete Excel analysis and dashboard
+
+![Retail Sales Dashboard](retail-sales-analysis-excel.png)
